@@ -84,7 +84,6 @@ AUSPOST none
 AUTHOR none
 AUTO none
 AUTOS none
-AVIANCA none
 AW none
 AWS none
 AX none
@@ -95,7 +94,6 @@ BA none
 BABY none
 BAIDU none
 BANAMEX none
-BANANAREPUBLIC none
 BAND none
 BANK none
 BAR none
@@ -260,7 +258,6 @@ COFFEE none
 COLLEGE none
 COLOGNE none
 COM none
-COMCAST none
 COMMBANK none
 COMMUNITY none
 COMPANY none
@@ -299,7 +296,6 @@ CY none
 CYMRU none
 CYOU none
 CZ none
-DABUR none
 DAD none
 DANCE none
 DATA none
@@ -377,14 +373,28 @@ ERNI none
 ES none
 ESQ none
 ESTATE none
+ET 0 wildcard "sectigo.com"
+ET 0 issue "digicert.com"
+ET 0 issue "pki.goog"
 ET 0 issuewild "digicert.com "
+ET 0 issue "letsencrypt.org"
 ET 0 issue "entrust.net"
-ET 0 issue "gandi.net"
-ET 0 issue "sectigo.com"
+ET 0 issuewild "Playbet.et"
+ET 0 issue "Playbet.et"
+ET 0 issue " sectigo.com  "
+ET 0 issuewild "pki.goog"
+ET 0 issuewild "globalsign.com"
 ET 0 issue "digicert.com "
 ET 0 issuewild "sectigo.com"
-ET 0 issue "letsencrypt.org"
-ETISALAT none
+ET 0 issue "intcaa.com"
+ET 0 issuewild "entrust.net"
+ET 0 issue "sectigo.com"
+ET 0 issuewild " sectigo.com  "
+ET 0 issuewild "digicert.com"
+ET 0 issuewild "letsencrypt.org"
+ET 0 issue "globalsign.com"
+ET 0 issue "gandi.net"
+ET 0 iodef "mailto:report-abuse@globalsign.com"
 EU none
 EUROVISION none
 EUS none
@@ -518,7 +528,6 @@ GROUP none
 GS none
 GT none
 GU none
-GUARDIAN none
 GUCCI none
 GUGE none
 GUIDE none
@@ -812,7 +821,6 @@ NA none
 NAB none
 NAGOYA none
 NAME none
-NATURA none
 NAVY none
 NBA none
 NC none
@@ -861,7 +869,6 @@ OFFICE none
 OKINAWA none
 OLAYAN none
 OLAYANGROUP none
-OLDNAVY none
 OLLO none
 OM none
 OMEGA none
@@ -1022,7 +1029,6 @@ SB none
 SBI none
 SBS none
 SC none
-SCA none
 SCB none
 SCHAEFFLER none
 SCHMIDT none
@@ -1051,7 +1057,6 @@ SG none
 SH none
 SHANGRILA none
 SHARP none
-SHAW none
 SHELL none
 SHIA none
 SHIKSHA none
@@ -1240,7 +1245,6 @@ VIVO none
 VLAANDEREN none
 VN none
 VODKA none
-VOLKSWAGEN none
 VOLVO none
 VOTE none
 VOTING none
@@ -1284,7 +1288,6 @@ WTC none
 WTF none
 XBOX none
 XEROX none
-XFINITY none
 XIHUAN none
 XIN none
 XN--11B4C3D none
@@ -1375,11 +1378,10 @@ XN--MGB9AWBF none
 XN--MGBA3A3EJT none
 XN--MGBA3A4F16A none
 XN--MGBA7C0BBN0A none
-XN--MGBAAKC7DVF none
 XN--MGBAAM7A8H none
 XN--MGBAB2BD none
 XN--MGBAH1A3HJKRD none
-XN--MGBAI9AZGQP6J failed The resolution lifetime expired after 5.402 seconds: Server Do53:127.0.0.53@53 answered The DNS operation timed out.; Server Do53:127.0.0.53@53 answered The DNS operation timed out.; Server Do53:127.0.0.53@53 answered The DNS operation timed out.
+XN--MGBAI9AZGQP6J failed The resolution lifetime expired after 5.401 seconds: Server Do53:192.168.0.1@53 answered The DNS operation timed out.; Server Do53:192.168.0.1@53 answered The DNS operation timed out.; Server Do53:192.168.0.1@53 answered The DNS operation timed out.
 XN--MGBAI9AZGQP6J none
 XN--MGBAYH7GPA none
 XN--MGBBH1A none
@@ -1431,7 +1433,6 @@ XN--VHQUV none
 XN--VUQ861B none
 XN--W4R85EL8FHU5DNRA none
 XN--W4RS40L none
-XN--WGBH1C failed All nameservers failed to answer the query XN--WGBH1C. IN CAA: Server Do53:127.0.0.53@53 answered SERVFAIL
 XN--WGBH1C none
 XN--WGBL6A none
 XN--XHQ521B none
@@ -1439,7 +1440,6 @@ XN--XKC2AL3HYE2A none
 XN--XKC2DL3A5EE0H none
 XN--Y9A3AQ none
 XN--YFRO4I67O none
-XN--YGBI2AMMX failed The resolution lifetime expired after 5.402 seconds: Server Do53:127.0.0.53@53 answered The DNS operation timed out.; Server Do53:127.0.0.53@53 answered The DNS operation timed out.; Server Do53:127.0.0.53@53 answered The DNS operation timed out.
 XN--YGBI2AMMX none
 XN--ZFR164B none
 XXX none
