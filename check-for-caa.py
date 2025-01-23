@@ -13,5 +13,5 @@ for TLD in open("tlds-alpha-by-domain.txt").read().split("\n"):
   if answer.rrset is None:
     print(TLD, "none")
   else:
-    for rr in answer.rrset:
+    for rr in sorted(answer.rrset):
       print(TLD, rr)
